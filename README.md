@@ -1,4 +1,4 @@
-This project was created by Vinícius Sena for the IGTI fullstack developer bootcamp
+This project was created by Vinícius Sena for the IGTI Fullstack Developer Bootcamp
 
 ## Available Scripts
 
